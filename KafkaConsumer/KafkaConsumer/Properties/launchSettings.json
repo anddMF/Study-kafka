@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "KafkaConsumer": {
+      "commandName": "Project",
+      "commandLineArgs": "localhost:9092 topic-teste",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
